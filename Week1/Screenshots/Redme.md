@@ -1,0 +1,1 @@
+This screenshot shows the introductory C# program and demonstrates the basic structure of a C# application. It represents the beginning of working with C# and the .NET environment.s
